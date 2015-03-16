@@ -1,0 +1,9 @@
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\bin\Debug\OriginalPerfumeChecker.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\bin\Debug\OriginalPerfumeChecker.exe
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\bin\Debug\OriginalPerfumeChecker.pdb
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.Form1.resources
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.Properties.Resources.resources
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.csproj.GenerateResource.Cache
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.exe
+c:\users\boris\documents\visual studio 2012\Projects\PerfumeChecker\OriginalPerfumeChecker\obj\Debug\OriginalPerfumeChecker.pdb
